@@ -1,0 +1,1 @@
+A similar version to the one implemented in python. This time is in Java and will be the base for the distributed snake game.
